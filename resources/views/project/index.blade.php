@@ -5,7 +5,7 @@
 <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10 mt-3">
-        <a href="{{ route('home') }}" class="btn btn-primary mb-3">Go Back</a>
+        <a href="{{ route('home') }}" class="btn btn-primary mb-3">Go Back to dashboard</a>
         <ul class="nav nav-tabs">
             @can('project-create')
             <li class="nav-item" role="presentation">
