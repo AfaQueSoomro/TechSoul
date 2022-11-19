@@ -26,7 +26,7 @@
                     <div class="card-body">
                         <table class="table text-center">
                             <tr class="bg-primary text-light">
-                                <th>Project Number</th>
+                                <th>Project Number Hello</th>
                                 <th>Project Title</th>
                                 <th>Project Type</th>
                                 <th>Number Of Panel</th>
